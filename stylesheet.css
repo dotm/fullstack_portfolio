@@ -1,4 +1,4 @@
-.main,h1,h2,p,ol,ul {
+h1,h2,p,ol,ul {
 
   background-color: rgba(255, 255, 255, .2);
 
@@ -15,6 +15,11 @@ a{
   color: rgb(255,100,100) !important;
   font-weight: bold;
 }
+
+#extra ol{
+  text-align: left;
+}
+
 
 /* Starry background from http://lea.verou.me/css3patterns/#starry-night */
 
